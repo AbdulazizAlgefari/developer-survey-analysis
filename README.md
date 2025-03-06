@@ -43,4 +43,10 @@ Navigate to the project directory:
 Open the Jupyter Notebook:
 jupyter notebook developer_survey_analysis.ipynb
 
+## Acknowledgments
+Data Source: Stack Overflow Developer Survey 2024
+
+Tools Used: Python, Pandas, Seaborn, Matplotlib, Scikit-learn
+
+Inspiration: This project was inspired by the need to understand developer trends and preferences in the tech industry.
 ## Repository Structure
