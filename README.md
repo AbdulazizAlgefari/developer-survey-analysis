@@ -49,4 +49,13 @@ Data Source: Stack Overflow Developer Survey 2024
 Tools Used: Python, Pandas, Seaborn, Matplotlib, Scikit-learn
 
 Inspiration: This project was inspired by the need to understand developer trends and preferences in the tech industry.
+
+## Contact
+For questions or feedback, feel free to reach out:
+
+Name: Abdulaziz Algefari
+
+Email: azalgefari@gmail.com
+
+GitHub: AbdulazizAlgifari
 ## Repository Structure
