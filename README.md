@@ -29,4 +29,18 @@ The goal of this project is to analyze the 2024 Developer Survey dataset and ans
 
 For detailed insights, check out the [Jupyter Notebook](developer_survey_analysis.ipynb).
 
+---
+
+## How to Run the Code
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/AbdulazizAlgefari/developer-survey-analysis.git
+
+Navigate to the project directory:
+  cd developer-survey-analysis
+## Install the required dependencies:
+ pip install -r requirements.txt
+Open the Jupyter Notebook:
+jupyter notebook developer_survey_analysis.ipynb
+
 ## Repository Structure
